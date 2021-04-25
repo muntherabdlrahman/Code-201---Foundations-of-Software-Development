@@ -389,10 +389,4 @@ information once?...
 ![HH](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKnEvd8DbxW-XI6lY1XsMAlHax6ywAD7KhrBFgmeeXFZytEVPhAUB9igFHNSv8p1-qcE&usqp=CAU.JPG)
 
 
->At the end I hope this page be helpful for you guys and for any kind of assistance please ask me to provide more information that should be so helpful as i can sheerd with you my personal notes written on by my hands on real perpor.
-
-<<<<<<< HEAD
-Thank you 
-=======
-
->>>>>>> d808ae8aa1e8aaa14aef82f37d0beec139c72bbd
+>At the end I hope this page be helpful for you guys and for any kind of assistance please ask me to provide more information that should be so helpful as I can sheerd with you my personal notes written on by my hands on real perpor.

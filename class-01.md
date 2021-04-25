@@ -88,9 +88,9 @@ The <fieldset> element is used to group related questions together. The <label> 
 There have also been several  versions of each browser used to view web pages, each of which implements new code. Not all  web users, however, have the  latest browsers installed on  their computers, which means that not everyone will be able to  view all of the latest features and markup.
 
 #### HTML 4
-*With the exception of a few  elements added in HTML5 
+>With the exception of a few  elements added in HTML5 
 (which have been highlighted),  the elements you have seen in  this book were all available in .
-Although HTML 4 had some presentational elements to  control the appearance of pages,  authors are not recommended to  use them any more. (Examples include the <center> element  for centering content on a page, <font> for controlling  the appearance of text, and  <strike> to put a line through  the text — all of these can be achieved with CSS instead.)* 
+Although HTML 4 had some presentational elements to  control the appearance of pages,  authors are not recommended to  use them any more. (Examples include the <center> element  for centering content on a page, <font> for controlling  the appearance of text, and   to put a line through  the text — all of these can be achieved with CSS instead.) 
 
 
 
@@ -389,19 +389,10 @@ information once?...
 ![HH](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKnEvd8DbxW-XI6lY1XsMAlHax6ywAD7KhrBFgmeeXFZytEVPhAUB9igFHNSv8p1-qcE&usqp=CAU.JPG)
 
 
-<<<<<<< HEAD
+
 >At the end I hope this page be helpful for you guys and for any kind of assistance please ask me to provide more information that should be so helpful as i can sheerd with you my personal notes written on by my hands on real perpor.
 
-<<<<<<< HEAD
-Thank you 
 
-=======
-<<<<<<< HEAD
-Thank you 
-=======
 
->>>>>>> d808ae8aa1e8aaa14aef82f37d0beec139c72bbd
->>>>>>> 571bea13fba64657afac714d556ba123dbdcf27a
-=======
->At the end I hope this page be helpful for you guys and for any kind of assistance please ask me to provide more information that should be so helpful as I can sheerd with you my personal notes written on by my hands on real perpor.
->>>>>>> 8680f739abe4a67e731ee7c0ba3dd2ad1f440448
+
+

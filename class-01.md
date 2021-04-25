@@ -391,4 +391,8 @@ information once?...
 
 >At the end I hope this page be helpful for you guys and for any kind of assistance please ask me to provide more information that should be so helpful as i can sheerd with you my personal notes written on by my hands on real perpor.
 
+<<<<<<< HEAD
 Thank you 
+=======
+
+>>>>>>> d808ae8aa1e8aaa14aef82f37d0beec139c72bbd

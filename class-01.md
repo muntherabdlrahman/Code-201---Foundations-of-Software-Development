@@ -147,13 +147,18 @@ frame*
 
 
 `src`
+
 *The src attribute specifies the 
 URL of the page to show in the 
 frame.*
+
 `height`
+
 *The height attribute specifies 
 the height of the iframe in pixels.*
+
 `width`
+
 *The width attribute specifies 
 the width of the iframe in pixels.*
 
@@ -212,11 +217,13 @@ web page*
 
 -------------------------------
 ## Traditional HTML Layouts
+
 ![SFSF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5CahAwdOWNlETTPhdwfijpYmO2jLVDj3RQ&usqp=CAU.JPG)
+
 
 >For a long time, web page authors used <div> elements to group together related elements on the page (such as the elements that form a header, an article, footer or sidebar). Authors used class or id attributes to indicate the role of the <div> element in the structure of the page.
 
-1.  `<header>` and `<footer>`
+  `<header>` and `<footer>`
 
 elements can be used for:
 * The main header or footer 
@@ -227,7 +234,7 @@ site.
 individual <article> or 
 <section> within the page.
 
-2. `<nav>`
+ `<nav>`
 
 *element is used to  contain the major navigational 
 blocks on the site such as the primary site navigation. Going back to our blog example, 

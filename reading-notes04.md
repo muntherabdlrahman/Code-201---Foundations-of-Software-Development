@@ -286,3 +286,23 @@ reuse the function (rather than repeating the same set of statements).
 
 ## EXPLANITION FUNCTION
 ![DVSVS](https://www.fatalerrors.org/images/blog/cbbaf0ee49c4b43577c3a4f0e4f5fb68.jpg)
+
+
+
+
+* Scripts contain very precise instructions. For example, 
+you might specify that a value must be remembered 
+before creating a calculation using that value. 
+
+* Variables are used to temporarily store pieces of 
+information used in the script. 
+
+* Arrays are special types of variables that store more 
+than one piece of related information. 
+
+* JavaScript distinguishes between numbers (0-9), 
+strings (text), and Boolean values (true or false). 
+
+* Expressions evaluate into a single value. 
+
+* Expressions rely on operators to calculate a value

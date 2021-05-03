@@ -11,6 +11,8 @@ No| of class|object
 4|[reading-notes04](reading-notes04.md) |overview
 5|[reading-notes06](reading-notes060.md)|overview
 6|[readings-notes07](readings-notes07.md)|overview
+7|[readings-notes08](readings-notes08.md)|overview
+
 
 
 

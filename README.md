@@ -10,6 +10,7 @@ No| of class|object
 3|[reading-notes03](reading-notes03.md)|overviwe
 4|[reading-notes04](reading-notes04.md) |overview
 5|[reading-notes06](reading-notes060.md)|overview
+6|[readings-notes07](readings-notes07.md)|overview
 
 
 

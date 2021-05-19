@@ -16,4 +16,6 @@ No| of class|object
 9|[reading-notes09](reading-notes09.md)|overview 
 10|[readings-notes-10](readings-notes-10.md)|overview
 11|[reading-notes-11](reading-notes-11.md)|overview
+12|[Read-13LocalStorage](Read-13LocalStorage.md)|reading-notes
+
 

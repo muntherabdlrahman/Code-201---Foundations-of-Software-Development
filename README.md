@@ -16,7 +16,10 @@ No| of class|object
 9|[reading-notes09](reading-notes09.md)|overview 
 10|[readings-notes-10](readings-notes-10.md)|overview
 11|[reading-notes-11](reading-notes-11.md)|overview
-12|[Read-13LocalStorage](Read-13LocalStorage.md)|reading-notes
-13|[read13](read13.md)|reading
+12|[Read-13LocalStorage](Read-13LocalStorage.md)|Reading-notes
+13|[read13](read13.md)|Reading
+14|[reading14a](reading14a.md)|Review
+15|[reading-14b](reading-14b.md)|Benefit story for Softkills 
+
 
 
